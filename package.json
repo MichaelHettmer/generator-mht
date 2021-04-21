@@ -41,7 +41,7 @@
     },
     "dependencies": {
         "axios": "0.21.1",
-        "chalk": "4.1.0",
+        "chalk": "4.1.1",
         "deepmerge": "4.2.2",
         "dotenv": "8.2.0",
         "find-config": "1.0.0",
