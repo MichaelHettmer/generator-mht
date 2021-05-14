@@ -48,7 +48,7 @@
         "findup-sync": "4.0.0",
         "lodash.kebabcase": "4.1.1",
         "lodash.startcase": "4.4.0",
-        "table": "6.0.7",
+        "table": "6.7.1",
         "yeoman-environment": "2.8.1",
         "yeoman-generator": "4.11.0",
         "yeoman-merge-ui": "1.1.0"
