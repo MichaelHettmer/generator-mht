@@ -40,7 +40,7 @@
         "validate": "npm-run-all lint lint:circleci lint:ejs test"
     },
     "dependencies": {
-        "axios": "0.26.1",
+        "axios": "0.28.0",
         "chalk": "4.1.2",
         "deepmerge": "4.2.2",
         "dotenv": "8.6.0",
